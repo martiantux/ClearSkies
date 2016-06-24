@@ -1,0 +1,5 @@
+name: ClearSkies
+version: 1.0.0
+author: bradleyjh@outlook.com
+description: Forces the weather to remain clear
+main: com.bradleyjh.clearskies.Main
